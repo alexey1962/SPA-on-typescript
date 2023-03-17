@@ -1,0 +1,14 @@
+.header-container div {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.header-container a {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: inherit
+}
+
+.header-container a:hover {
+  text-decoration: underline;
+}
